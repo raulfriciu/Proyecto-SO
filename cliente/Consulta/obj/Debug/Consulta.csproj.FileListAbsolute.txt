@@ -1,0 +1,21 @@
+C:\Users\alexl\OneDrive\Documents\EETAC\5è Quadrimestre\SO\Proyecto SO\Setmana 4\clienteEjercicioGuia\Consulta\obj\Debug\Consulta.csproj.AssemblyReference.cache
+C:\Users\alexl\OneDrive\Documents\EETAC\5è Quadrimestre\SO\Proyecto SO\Setmana 4\clienteEjercicioGuia\Consulta\obj\Debug\Consulta.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexl\OneDrive\Documents\EETAC\5è Quadrimestre\SO\Proyecto SO\Setmana 4\clienteEjercicioGuia\Consulta\obj\Debug\Consulta.Properties.Resources.resources
+C:\Users\alexl\OneDrive\Documents\EETAC\5è Quadrimestre\SO\Proyecto SO\Setmana 4\clienteEjercicioGuia\Consulta\obj\Debug\Consulta.csproj.GenerateResource.cache
+C:\Users\alexl\OneDrive\Documents\EETAC\5è Quadrimestre\SO\Proyecto SO\Setmana 4\clienteEjercicioGuia\Consulta\obj\Debug\Consulta.csproj.CoreCompileInputs.cache
+C:\Users\alexl\OneDrive\Documents\EETAC\5è Quadrimestre\SO\Proyecto SO\Setmana 4\clienteEjercicioGuia\Consulta\bin\Debug\Consulta.exe.config
+C:\Users\alexl\OneDrive\Documents\EETAC\5è Quadrimestre\SO\Proyecto SO\Setmana 4\clienteEjercicioGuia\Consulta\bin\Debug\Consulta.exe
+C:\Users\alexl\OneDrive\Documents\EETAC\5è Quadrimestre\SO\Proyecto SO\Setmana 4\clienteEjercicioGuia\Consulta\bin\Debug\Consulta.pdb
+C:\Users\alexl\OneDrive\Documents\EETAC\5è Quadrimestre\SO\Proyecto SO\Setmana 4\clienteEjercicioGuia\Consulta\obj\Debug\Consulta.exe
+C:\Users\alexl\OneDrive\Documents\EETAC\5è Quadrimestre\SO\Proyecto SO\Setmana 4\clienteEjercicioGuia\Consulta\obj\Debug\Consulta.pdb
+C:\Users\alexl\OneDrive\Documents\EETAC\5è Quadrimestre\SO\Proyecto SO\Proyecto SO Semana 4\cliente\Consulta\bin\Debug\Consulta.exe.config
+C:\Users\alexl\OneDrive\Documents\EETAC\5è Quadrimestre\SO\Proyecto SO\Proyecto SO Semana 4\cliente\Consulta\bin\Debug\Consulta.exe
+C:\Users\alexl\OneDrive\Documents\EETAC\5è Quadrimestre\SO\Proyecto SO\Proyecto SO Semana 4\cliente\Consulta\bin\Debug\Consulta.pdb
+C:\Users\alexl\OneDrive\Documents\EETAC\5è Quadrimestre\SO\Proyecto SO\Proyecto SO Semana 4\cliente\Consulta\obj\Debug\Consulta.csproj.AssemblyReference.cache
+C:\Users\alexl\OneDrive\Documents\EETAC\5è Quadrimestre\SO\Proyecto SO\Proyecto SO Semana 4\cliente\Consulta\obj\Debug\Consulta.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexl\OneDrive\Documents\EETAC\5è Quadrimestre\SO\Proyecto SO\Proyecto SO Semana 4\cliente\Consulta\obj\Debug\Consulta.Form2.resources
+C:\Users\alexl\OneDrive\Documents\EETAC\5è Quadrimestre\SO\Proyecto SO\Proyecto SO Semana 4\cliente\Consulta\obj\Debug\Consulta.Properties.Resources.resources
+C:\Users\alexl\OneDrive\Documents\EETAC\5è Quadrimestre\SO\Proyecto SO\Proyecto SO Semana 4\cliente\Consulta\obj\Debug\Consulta.csproj.GenerateResource.cache
+C:\Users\alexl\OneDrive\Documents\EETAC\5è Quadrimestre\SO\Proyecto SO\Proyecto SO Semana 4\cliente\Consulta\obj\Debug\Consulta.csproj.CoreCompileInputs.cache
+C:\Users\alexl\OneDrive\Documents\EETAC\5è Quadrimestre\SO\Proyecto SO\Proyecto SO Semana 4\cliente\Consulta\obj\Debug\Consulta.exe
+C:\Users\alexl\OneDrive\Documents\EETAC\5è Quadrimestre\SO\Proyecto SO\Proyecto SO Semana 4\cliente\Consulta\obj\Debug\Consulta.pdb
